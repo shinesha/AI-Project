@@ -1,0 +1,5 @@
+This project is for running the GA.
+1/ To change the parameters of the GA. Go to ParamStats class.
+2/ To run. Run StartGA class.
+
+It will output the weights. 
